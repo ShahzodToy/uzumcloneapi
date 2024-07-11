@@ -1,0 +1,7 @@
+##Uzum clone version in e-commerce api project for bigginers##
+<-----To-do list------>
+1. User registration(Sign up and login) with pyjwt login (post,post)✅
+2. Profile Page for update and see(put,get)✅
+2. Create product and order catalog http endpoint (get,post,putch,put)✅
+3. Shopping cart and order management (add quantity and remove quantity)✅
+4. Integration with a payment gateway (Click)✅
